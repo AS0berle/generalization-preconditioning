@@ -1,6 +1,7 @@
 # My own additions
-images/
-
+**images/
+**models/
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
